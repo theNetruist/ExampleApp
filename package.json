@@ -38,6 +38,6 @@
         "webpack-dev-server": "^4.11.1"
     },
     "dependencies": {
-        "exampleappdependency": "^1.0.7"
+        "exampleappdependency": "^1.0.0"
     }
 }
